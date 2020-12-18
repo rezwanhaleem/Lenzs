@@ -1,0 +1,1 @@
+/home/rezwan/Android/Sdk/ndk/22.0.7026061/build/core/add-application.mk:88: *** Android NDK: Aborting...    .  Stop.

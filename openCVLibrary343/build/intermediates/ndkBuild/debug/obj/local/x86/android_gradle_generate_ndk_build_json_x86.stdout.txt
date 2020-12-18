@@ -1,0 +1,1 @@
+Android NDK: Your APP_BUILD_SCRIPT points to an unknown file: /home/rezwan/AndroidStudioProjects/Lenzs/openCVLibrary343/build/intermediates/ndk/debug/Android.mk    
